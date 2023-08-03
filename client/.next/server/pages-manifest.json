@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/login": "pages/login.js",
+  "/forget-password": "pages/forget-password.js",
+  "/register": "pages/register.js",
+  "/": "pages/index.js",
+  "/reset-password/[_id]/[passwordToken]": "pages/reset-password/[_id]/[passwordToken].js"
+}
